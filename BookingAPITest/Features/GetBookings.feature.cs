@@ -222,12 +222,12 @@ this.ScenarioInitialize(scenarioInfo);
                             "checkin",
                             "checkout"});
                 table6.AddRow(new string[] {
-                            "Eric",
+                            "Mark",
                             "Brown",
-                            "770",
-                            "true",
-                            "2017-03-29",
-                            "2020-01-13"});
+                            "409",
+                            "false",
+                            "2015-12-03",
+                            "2017-06-11"});
 #line 22
  testRunner.Then("I Should see below booking details", ((string)(null)), table6, "Then ");
 #line hidden
