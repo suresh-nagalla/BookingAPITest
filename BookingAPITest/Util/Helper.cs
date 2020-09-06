@@ -34,9 +34,5 @@ namespace BookingAPITest.Util
             return booking;
         }
 
-        public static void GetCredentials()
-        {
-            
-        }
     }
 }
