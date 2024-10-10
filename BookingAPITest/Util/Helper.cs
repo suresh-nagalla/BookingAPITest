@@ -34,5 +34,10 @@ namespace BookingAPITest.Util
             return booking;
         }
 
+    public void GetData()
+    {
+
+      
+    }
     }
 }
