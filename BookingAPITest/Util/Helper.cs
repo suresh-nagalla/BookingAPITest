@@ -39,5 +39,14 @@ namespace BookingAPITest.Util
 
       
     }
+
+    public string GetWelcomeMessage()
+    {
+      return "Hello ";
+    }
+
+    public string GetGreetings()
+    {
+      return "Hello ";
     }
 }
