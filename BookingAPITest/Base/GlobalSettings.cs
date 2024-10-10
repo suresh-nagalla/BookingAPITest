@@ -11,7 +11,6 @@ namespace BookingAPITest.Base
     {
         public HttpResponseMessage Response { get; set; }
         public HttpRequestMessage Request { get; set; }
-
         public int BookingID { get; set; }
     }
 }
